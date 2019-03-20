@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>만원의 행복</title><meta charset="utf-8">
+	<title>만원의 행복</title>
 	<link href="https://fonts.googleapis.com/css?family=Stylish" rel="stylesheet">
     <style type="text/css">
     	.wrap{width: 1000px; margin:auto; padding: 100px; 
